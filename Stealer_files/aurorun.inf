@@ -1,0 +1,3 @@
+[autorun]
+open=utilities/launch.bat
+description="Repair the hard drive"
