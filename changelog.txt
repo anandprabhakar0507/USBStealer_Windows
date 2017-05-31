@@ -1,4 +1,4 @@
-USBStealer Windows v1 by Davide Ramondetti (ramondeettidavide.com)
+USBStealer Windows v1 by Davide Ramondetti (ramondettidavide.com)
 - Working on Windows
 - Easy to build
 - Added support for Opera, Chrome, Internet Explorer, Microsoft Edge, Email, Messengers, Chromium, Router password WiFi and other browsers.
